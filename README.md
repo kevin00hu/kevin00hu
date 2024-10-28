@@ -1,16 +1,31 @@
-## Hi there 👋
+<pre>
 
-<!--
-**kevin00hu/kevin00hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  |       |    O - - - -    |            |            O - - - O
+  |       |    |            |            |            |       |
+  |       |    |            |            |            |       |
+  O - - - O    O - - - -    |            |            |       |
+  |       |    |            |            |            |       |
+  |       |    |            |            |            |       |
+  |       |    O - - - -    O - - - -    O - - - -    O - - - O
+     
+<strong>Hi, I am Kaiwen Hu!👋 </strong>
 
-Here are some ideas to get you started:
+<strong>A Data Scientist.</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre> 
+
+### ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevin00hu&count_private=true&show_icons=true"/>
+
+
+### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:kaiwenh4xk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaiwenh4xk@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
+### 🛳 &nbsp; Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/kevin00hu/count.svg" />
