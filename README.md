@@ -18,6 +18,7 @@
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevin00hu&count_private=true&show_icons=true"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin00hu&layout=compact)](https://github.com/kevin00hu/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
